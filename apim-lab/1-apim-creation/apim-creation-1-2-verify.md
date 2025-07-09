@@ -62,7 +62,8 @@ You may have noticed the *Request URL* and may be tempted to put it in your brow
 
    ![APIM Echo API Disable Required Subscription](media/06.png)
 
-1. Now there should be no error when you access the link in your browser. In fact, in order to verify the 200, it's easiest to open your Developer Tools (F12), navigate to the **Network** tab, and look at **All** requests to see the 200.
+1. Now there should be no error when you access the link in your browser. To verify the 200 status, press `F12` or right-click on the page, select **Inspect**, go to the **Network** tab, refresh the page, and check under **All** requests for a **200** response.
+
 
    ![APIM Echo API Browser Success](media/07.png)
 
