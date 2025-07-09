@@ -94,13 +94,13 @@ Let's experience how your users will navigate through your portal. In order to d
 
 1. Check out the APIs. As you can see, all operations exposed are described and can also be tested directly within the portal.
 
-      ![APIM Developer Portal APIs](api-10.png)
+      ![APIM Developer Portal APIs](media/api-10.png)
 
 ### Register for an account
 
 1. Let's create a new account by clicking the **Sign up** button in the top right corner. For this lab, the email can be either personal or work-related, but please make sure to use a different email from the one associated to your Azure subscription.
 
-      ![APIM Developer Portal Sign-up](media/09.png)
+      ![APIM Developer Portal Sign-up](media/sup-devportal.png)
 
 1. Check your inbox for the acceptance email and confirm to activate your account.
 
@@ -110,12 +110,12 @@ Let's experience how your users will navigate through your portal. In order to d
 
 1. Back in the private browser, sign in with your new credentials.
 
-      ![APIM Developer Portal Sign-in](media/11.png)
+      ![APIM Developer Portal Sign-in](media/sin-devportal.png)
 
 1. Click on **Products**, then **Starter**.
 1. Enter `Starter` as the subscription name, then press **Subscribe**. You should receive a confirmation email shortly.
 
-      ![APIM Developer Portal Product Subscribe](media/12.png)
+      ![APIM Developer Portal Product Subscribe](media/starter-subscribe.png)
 
 1. Next, click back on **Products**, then **Unlimited**.
 1. Enter `Unlimited` as the subscription name, then press **Subscribe**.
@@ -126,19 +126,19 @@ Let's experience how your users will navigate through your portal. In order to d
 
 1. Navigate back to Azure Portal, under APIs click on **Subscriptions (1)** blade to see the two new subscriptions `Starter` and `Unlimited` that were just added.
 
-      ![APIM Subscriptions](media/P3-T3-AS.png)
+      ![APIM Subscriptions](media/approving-subs.png)
 
 1. Click on Hamburger buttons for the **Unlimited** subscription in submitted state, then select **Activate subscription**.
 
-      ![APIM Activate Subscription](media/14.png)
+      ![APIM Activate Subscription](activate-subs.png)
 
 1. Provide additional comments, if you like, then **Confirm** the activation. By default, this will send an activation confirmation email to the user.
 
-      ![APIM Activate Subscription](media/P3-T3-ActSubscription.png)
+      ![APIM Activate Subscription](media/approving-subs)
 
 1. Back in the private browser, refresh the profile page to see the activated **Unlimited** subscription.
 
-      ![APIM Subscription Activated](media/15.png)
+      ![APIM Subscription Activated](media/activation-subsc2.png)
 
 ### Try an API
 
