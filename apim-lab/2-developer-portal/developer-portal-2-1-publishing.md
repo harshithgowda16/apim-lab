@@ -36,7 +36,7 @@ The Azure API Management Developer Portal uses role-based access control (RBAC).
 
 1. You can now proceed with publishing the Developer Portal to allow anonymous and authenticated roles. Navigate back to the Azure Portal, locate **Developer Portal** in the left-hand resource menu, then click on **Portal overview (1)**. Press the **Publish (2)** button and confirm with **Yes** in the popup. The portal will then be available for users to access.
 
-   ![APIM Developer Portal Publish](media/03.png)
+   ![APIM Developer Portal Publish](media/api886.png)
 
 1. You will see confirmation once the Developer Portal has been published.
 
@@ -80,21 +80,21 @@ Let's experience how your users will navigate through your portal. In order to d
 
       > **Note**: Keep this browser session open as we will use it frequently throughout our labs.
       
-      ![APIM Developer Portal Unauthenticated Launch](media/06.png)
+      ![APIM Developer Portal Unauthenticated Launch](media/api-11.png)
 
 ### Anonymous User
 
 1. As an unauthenticated user, explore the portal by clicking on the 'APIs' and 'Products' links located in the top right corner to view the available **APIs** and **Products**.
 
-      ![](media/exploreapi.png)
+      ![](media/api-13.png)
 
       > **Note**: Notice the difference between the Starter & Unlimited products.
 
-      ![APIM Developer Portal Products](media/07.png)
+      ![APIM Developer Portal Products](media/api-09.png)
 
 1. Check out the APIs. As you can see, all operations exposed are described and can also be tested directly within the portal.
 
-      ![APIM Developer Portal APIs](media/08.png)
+      ![APIM Developer Portal APIs](api-10.png)
 
 ### Register for an account
 
