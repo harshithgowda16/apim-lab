@@ -34,7 +34,7 @@ Azure API Management instance has already been pre-deployed as part of the deplo
 
       - Select the **APIs (1)** blade, then select the ***Echo API (2)***.
 
-           ![APIM Echo API Test Send](media/mapi30.png)
+           ![APIM Echo API Test Send](media/E1-T1-S2a.png)
 
       - Press the **Test (1)** tab, then select the **GET Retrieve resource (2)** operation and note the **Request URL (3)** in a text editor for later use.
      
