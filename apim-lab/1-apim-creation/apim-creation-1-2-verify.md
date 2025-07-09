@@ -32,7 +32,7 @@ Azure API Management instance has already been pre-deployed as part of the deplo
 
    > **Note:** Please verify that the Azure API Management instance functions correctly by following these steps:
 
-      - Select the **APIs (1)** blade, then select the ***Echo API (2)***.
+      - Select the **APIs (1)** blade, then select the ***Echo API (2)*** and select **HTTP (3)**.
 
            ![APIM Echo API Test Send](media/E1-T1-S2a.png)
 
