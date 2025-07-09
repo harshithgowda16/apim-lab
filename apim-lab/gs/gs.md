@@ -87,7 +87,7 @@ The architecture uses Azure API Management to manage and secure APIs. It include
 
    ![08](media/environment-new-ui.png)
  
-    > You will see the DeploymentID value on **Environment Details** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
+    > You will see the DeploymentID value on **Environment** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
 
 
 ## Login to Azure Portal
