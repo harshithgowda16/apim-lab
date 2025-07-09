@@ -1,6 +1,6 @@
 # Azure API Management
 
-## Overall Estimated Duration: 7 Hours
+### Overall Estimated Duration: 7 Hours
 
 ## Overview
 
@@ -38,7 +38,7 @@ Understand how to leverage Azure’s API Management tools to enhance your coding
      optimize the infrastructure for future growth.
 
 
-## Pre-requisites
+## Prerequisites
 
    - **Azure Account**: An active Azure account with permissions to create and manage resources.
    - **Basic API Knowledge**: Understanding of API concepts such as endpoints, operations, and HTTP methods.
@@ -79,22 +79,49 @@ The architecture uses Azure API Management to manage and secure APIs. It include
 
 ## Getting Started with Lab
 
-1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. You can see the number on the bottom of guide to switch to different exercises of the lab guide.
+Welcome to your Azure API Management workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
 
-   ![07](media/guide-new-ui.png)
+## Accessing Your Lab Environment
 
-1. To get the lab environment details, you can select the **Environment** tab. Additionally, the credentials will also be emailed to your registered email address. You can also open the Guide on separate and full window by selecting the **Split Window** from the Top right corner. Also, you can start, stop, and restart virtual machines from the **Resources** tab.
+Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. You can see the number on the bottom of lab guide to switch to different exercises of the lab guide.
 
-   ![08](media/environment-new-ui.png)
+   ![07](media/api-06.png)
+
+### Virtual Machine & Lab Guide
  
-    > You will see the DeploymentID value on **Environment** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
+Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+ 
+## Exploring Your Lab Resources
+ 
+To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab. Additionally, the credentials will also be emailed to your registered email address.
 
+   ![08](media/api-03.png)
+ 
+  > You will see the DeploymentID value on **Environment Details** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
 
-## Login to Azure Portal
+## Utilizing the Split Window Feature
+ 
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+
+  ![](media/api-04.png)
+
+## Managing Your Virtual Machine
+ 
+Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+
+   ![](media/api-02.png) 
+
+## Lab Guide Zoom In/Zoom Out
+
+To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+
+   ![](media/api-01.png)
+
+## Let's Get Started with Azure Portal
 
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![09](media/09.png)
+   ![09](media/api-08.png)
    
 1. On **Sign into Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
@@ -115,18 +142,43 @@ The architecture uses Azure API Management to manage and secure APIs. It include
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
 1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
-      
-1. Now, click on the **Next** from lower right corner to move on next page.
 
+    ![](media/Azure-cancel-tour.png)
+
+## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
+
+1. At the **"More information required"** prompt, select **Next**.
+
+1. On the **"Keep your account secure"** page, select **Next** twice.
+
+1. **Note:** If you don’t have the Microsoft Authenticator app installed on your mobile device:
+
+   - Open **Google Play Store** (Android) or **App Store** (iOS).
+   - Search for **Microsoft Authenticator** and tap **Install**.
+   - Open the **Microsoft Authenticator** app, select **Add account**, then choose **Work or school account**.
+
+1. A **QR code** will be displayed on your computer screen.
+
+1. In the Authenticator app, select **Scan a QR code** and scan the code displayed on your screen.
+
+1. After scanning, click **Next** to proceed.
+
+1. On your phone, enter the number shown on your computer screen in the Authenticator app and select **Next**.
+       
+1. If prompted to stay signed in, you can click "No."
+ 
+1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
+      
 ## Support Contact
  
-1. The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
- 
-   Learner Support Contacts:
- 
-   - Email Support: cloudlabs-support@spektrasystems.com
-   - Live Chat Support: https://cloudlabs.ai/labs-support
- 
-1. Now, click on Next from the lower right corner to move on to the next page.
+The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
 
-## Happy Learning!!
+Learner Support Contacts:
+- Email Support: cloudlabs-support@spektrasystems.com
+- Live Chat Support: https://cloudlabs.ai/labs-support
+ 
+Now, click on Next from the lower right corner to move on to the next page.
+
+  ![](media/api-07.png)
+
+### Happy Learning!!
