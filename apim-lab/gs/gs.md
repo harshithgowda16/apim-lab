@@ -79,13 +79,13 @@ The architecture uses Azure API Management to manage and secure APIs. It include
 
 ## Getting Started with Lab
 
-1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. You can see the number on the bottom of lab guide to switch to different exercises of the lab guide.
+1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. You can see the number on the bottom of guide to switch to different exercises of the lab guide.
 
-   ![07](media/01.png)
+   ![07](media/guide-new-ui.png)
 
-1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your registered email address. You can also open the Lab Guide on separate and full window by selecting the **Split Window** from the lower right corner. Also, you can start, stop, and restart virtual machines from the **Resources** tab.
+1. To get the lab environment details, you can select the **Environment** tab. Additionally, the credentials will also be emailed to your registered email address. You can also open the Guide on separate and full window by selecting the **Split Window** from the Top right corner. Also, you can start, stop, and restart virtual machines from the **Resources** tab.
 
-   ![08](media/02.png)
+   ![08](media/environment-new-ui.png)
  
     > You will see the DeploymentID value on **Environment Details** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
 
